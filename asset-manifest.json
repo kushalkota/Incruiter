@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/incruiter/static/css/main.0d0aee5f.css",
+    "main.js": "/incruiter/static/js/main.ff742794.js",
+    "static/media/logo.png": "/incruiter/static/media/logo.8504c6c0c8825a4f3b74.png",
+    "static/media/question.png": "/incruiter/static/media/question.d8e7ead744effd89dc7c.png",
+    "static/media/bell.png": "/incruiter/static/media/bell.e3106d91f607c4c49de6.png",
+    "static/media/search (1).png": "/incruiter/static/media/search (1).684e0753050be764ad2d.png",
+    "static/media/search.png": "/incruiter/static/media/search.2f4ec03866b815639cfa.png",
+    "index.html": "/incruiter/index.html",
+    "main.0d0aee5f.css.map": "/incruiter/static/css/main.0d0aee5f.css.map",
+    "main.ff742794.js.map": "/incruiter/static/js/main.ff742794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0aee5f.css",
+    "static/js/main.ff742794.js"
+  ]
+}
