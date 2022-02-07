@@ -1,0 +1,9 @@
+#home-btn {
+  border-style: none;
+  background-color: #1c4784;
+  color: white;
+  padding: 1.5vh 2.5vw;
+  border-radius: 1.5vw;
+  font-size: 1.5vw;
+  margin-top: 3%;
+}
